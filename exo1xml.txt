@@ -1,0 +1,18 @@
+<Enseignants>
+    <Enseignant>
+        <Nom>M.Ali</Nom>
+        <Matiere>Arabe</Matiere>
+        <Eleve>132</Eleve>
+</Enseignant>
+   <Enseignant>
+    <Nom>Mme fatima</Nom>
+    <Matiere>Arabe</Matiere>
+    <Eleve>161</Eleve>
+   </Enseignant>  
+       <Enseignant>
+     <Nom>Mlle Nora</Nom>
+    <Matiere>mathematique</Matiere>
+    <Eleve>143</Eleve>
+   </Enseignant>
+
+</Enseignants>
